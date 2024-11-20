@@ -1,0 +1,63 @@
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.exe
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.deps.json
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.runtimeconfig.json
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.dll
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.pdb
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath_MarkupCompile.cache
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath_MarkupCompile.lref
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.g.resources
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.AssemblyInfo.cs
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.dll
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\refint\LabyrinthPath.dll
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.pdb
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.genruntimeconfig.cache
+C:\Users\sofia\source\repos\MAI\ИИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\ref\LabyrinthPath.dll
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.exe
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.deps.json
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.runtimeconfig.json
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.dll
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.pdb
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath_MarkupCompile.cache
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath_MarkupCompile.lref
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.g.resources
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.AssemblyInfo.cs
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.dll
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\refint\LabyrinthPath.dll
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.pdb
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.genruntimeconfig.cache
+C:\Users\sofia\source\repos\Флахры из МАИ\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\ref\LabyrinthPath.dll
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.exe
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.deps.json
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.runtimeconfig.json
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.dll
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\bin\Debug\net6.0-windows\LabyrinthPath.pdb
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath_MarkupCompile.cache
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath_MarkupCompile.lref
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.g.resources
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.AssemblyInfo.cs
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.dll
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\refint\LabyrinthPath.dll
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.pdb
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\LabyrinthPath.genruntimeconfig.cache
+C:\Users\sofia\source\repos\Флахры из МАИ\Написать комментарии\LabyrinthPath\LabyrinthPath\obj\Debug\net6.0-windows\ref\LabyrinthPath.dll
